@@ -7,7 +7,7 @@ import (
 
 func TestMaxAreaS1(t *testing.T) {
 	input := []int{1, 2, 3}
-	testMaxArea(t, input, 1)
+	testMaxArea(t, input, 2)
 }
 
 func TestMaxAreaS2(t *testing.T) {
